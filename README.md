@@ -1,4 +1,4 @@
 # hello-world
 The first repository
 
-Practive how to use github. 
+Practice how to use github. 
